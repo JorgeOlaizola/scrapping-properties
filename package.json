@@ -1,0 +1,23 @@
+{
+  "name": "scrapping-props",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jorge Olaizola",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.48.2",
+    "aws-sdk": "^2.1691.0",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "chromedriver": "^130.0.1",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.16",
+    "selenium-webdriver": "^4.26.0"
+  }
+}
